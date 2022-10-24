@@ -1,4 +1,7 @@
 # PCGV-Pokemon-Image-Data
+
+PCGV stands for 'pokemon collected for generating tasks'
+
 Web scrape code for a complete Pokémon data set:
 
 Augmentation performs data augmentation techniques to increase image data size; 
